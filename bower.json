@@ -40,5 +40,8 @@
         "fonts/FontAwesome.otf"
       ]
     }
+  },
+  "resolutions": {
+    "angular": "~1.4.0"
   }
 }
