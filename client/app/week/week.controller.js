@@ -20,7 +20,7 @@ angular.module('courseplannerApp')
 
     $scope.undoWeekplanEdit = function(){
       $scope.editingWeekplan = undefined;
-    }
+    };
 
     $scope.deleteWeekPlan = function(weekplan, event) {
       var confirm = $mdDialog.confirm()
